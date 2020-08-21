@@ -16,7 +16,7 @@ function App() {
         <div>
           <h2>Endereço</h2>
           </div>
-
+        
         <label>Cep<input type="text"/></label><br/>
         <label>Rua<input type="text"/></label><br/>
         <label>Numero<input type="text"/></label><br/>
@@ -24,6 +24,7 @@ function App() {
         <label>Bairro<input type="text"/></label><br/>
         <label>Cidade<input type="text"/></label><br/>
         <label>Estado<input type="text"/></label><br/>
+        <button type="subimit">Enviar</button><br/>
       </form>
     </div>
   );
